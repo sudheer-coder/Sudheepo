@@ -1,0 +1,45 @@
+class---------------------------------------(sciencetech	
+collection of objects 
+blue print of objects
+object characters ------------------------------
+Individuality(Uniquw property)
+Behaviour(what object does)
+Attributes(Based on this object creates(values))
+encapsulation----------------------------------
+wrapping up of data and hiding of data
+hiding the data of a class from other class using private you can change or
+get it through get and set mehod
+abstraction--------------------------------------
+Hiding the logic from user by showing only functionlaity
+
+examples: 
+racing track class
+racing cars objects,accelerattion is attribute,speed of car is behaviour
+
+inheritance---------------------------------
+
+reusability of code in different class
+(generalization and inheritance isrelation all together called has inheritance)
+Has a relationship also called has aggregation and asscoiation relation seggregated into two (a class containnig an object) Both are tightly dependent on each other if they cant exist it is composite relation
+Types of inheritance 
+1)multiple inheritance is not present in java
+
+polymorphisam
+1)static polymorphism,dynamic polymorphism
+same method with different functionality
+dynamic polymorphisamis implemented through method overriding and loading 
+static polymorphisam is implemented through overloading 
+
+types of variable static,local.instance(non static)
+types of memory stack and heap
+local variables will move to stack remaining all will created in heap
+satckmemory cleans itself heap memory clears using garbagecollector
+localvariables inside a method or block of code
+static immediate to the class  
+the reason of using static in main method because to cll the mainmethod using the class
+JVMarchitecture Has three parts
+1)class loader(will load the class file and pass to 2) 
+2)byte code verfifier(checks the syntax legally or not and send backto class loader) 
+3)security manager uses sandbox algorithm                           
+
+
