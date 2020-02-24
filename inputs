@@ -31,3 +31,16 @@
 "numberOfItems":20,
 "remarks":"umper"
 }
+
+
+//seller
+{
+"username":"Sudheer66",
+"password":"*****",
+"gstIn":"gst1100",
+"briefAboutCompany":"supergood",
+"postalAddress":"chennai",
+"website":"zyx.com",
+"emialID":"xyz@gmail.com",
+"contactNumber":949480666
+}
