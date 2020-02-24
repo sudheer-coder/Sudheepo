@@ -44,3 +44,13 @@
 "emialID":"xyz@gmail.com",
 "contactNumber":949480666
 }
+
+{
+"productName":"iphone",
+"manufacturer":"Apple",
+"model":"7",
+"price":"45000",
+"quantity":"10",
+"description":"good",
+"picture":"xyz.jpg"
+}
